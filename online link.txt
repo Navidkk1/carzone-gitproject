@@ -1,0 +1,11 @@
+# vase email
+firtsname = carzone
+lastname = project
+email = carzoneproject1401@gmail.com
+password = AdminAdmin
+
+#vase pythonanywhere
+
+username = Admin1401
+email = carzoneproject1401@gmail.com
+password = AdminAdmin
